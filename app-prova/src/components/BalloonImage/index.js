@@ -1,14 +1,12 @@
 import React from 'react';
 import { View, Text} from 'react-native';
 
-import BalaoDaSorte from './src/components/BalaoDaSorte/'
+import styles from './style'
 
-export default function App() {
+export default function BalloonImage() {
   return (
     <View>
-      <BalaoDaSorte/>
       
     </View>
   );
 }
-
