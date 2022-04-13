@@ -1,12 +1,15 @@
 import React from 'react';
-import { View, Text} from 'react-native';
+import { View, Button} from 'react-native';
 
-import styles from './style'
+
 
 export default function ButtonToSend() {
   return (
     <View>
-     
+     <Button      
+      title="Enviar Balão"
+      color="#841584"
+    />
       
     </View>
   );

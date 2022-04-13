@@ -1,4 +1,6 @@
 import { StyleSheet } from "react-native";
+import { theme } from '../../global/styles/theme/'
+
 
 const styles = StyleSheet.create({
     container:{
@@ -9,6 +11,7 @@ const styles = StyleSheet.create({
         marginTop: 20,
         width: '100%',
         fontSize: 20,
+        backgroundColor: theme.colors.azulEscuro
     },
 
 });
