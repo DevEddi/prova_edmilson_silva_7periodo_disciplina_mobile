@@ -4,13 +4,14 @@ import { theme } from '../../global/styles/theme/'
 
 const styles = StyleSheet.create({
     container:{
-        flex: 1
-    },    
+        marginTop: 30,        
+    },
+    containerItems:{
+        padding: 15,
+
+    },
     textBalloon:{
-        textAlign: 'center',
-        marginTop: 20,
-        width: '100%',
-        fontSize: 20,
+        textAlign: 'center',        
         backgroundColor: theme.colors.azulEscuro
     },
 
