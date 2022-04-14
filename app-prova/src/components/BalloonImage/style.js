@@ -4,15 +4,17 @@ import { StyleSheet } from "react-native";
 export const styles = StyleSheet.create({
     container:{
         padding: 10,
-        margin: 20,
+        margin: 30,
         justifyContent: 'center',
         alignItems: 'center',        
     },
+    balao:{
+        width: 100,
+        height: 100,
+    },
     texto:{
-        width: '100%',
         textAlign: 'center',
-        fontSize: 60,
-        marginTop: 50,
+        fontSize: 20,
     },
     button:{
         marginTop: 100,
