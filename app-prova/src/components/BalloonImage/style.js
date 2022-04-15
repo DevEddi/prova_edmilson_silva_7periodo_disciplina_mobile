@@ -24,7 +24,7 @@ const styles = StyleSheet.create({
         },
         textoSupresa:{
             color: '#0081cf',
-            fontSize: 20,
+            fontSize: 18,
             paddingLeft: 10,
             paddingBottom: 30,
         },

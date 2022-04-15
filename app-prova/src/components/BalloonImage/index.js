@@ -5,6 +5,7 @@ import imagemBalao from 'app-prova/src/image/balloon_red.jpg'
 import estourado from 'app-prova/src/image/popped_balloon_red.jpg'
 
 import styles from './style'
+import Botao from '../Botao'
 
 export default function BalloonImage() {
    
@@ -30,8 +31,14 @@ export default function BalloonImage() {
       <View style={styles.conteudoImagem}>
         <Image style={styles.balao} source={estoura}  />
         <Text style={styles.textoSupresa} >{frase}</Text>
-        <Button onPress={enviarBalao} title='Enviar'/>
-        <Button onPress={resetar} title='Resetar'/> 
+        <Botao
+          chama = {enviarBalao}
+          nome = 'Enviar'          
+        />
+        <Botao
+          chama = {resetar}
+          nome = 'Resetar'          
+        />
       </View>
     </View>
   );
