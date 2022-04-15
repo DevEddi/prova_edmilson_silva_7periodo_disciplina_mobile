@@ -1,18 +1,18 @@
-import { StyleSheet } from "react-native";
+import { StyleSheet } from 'react-native'
 
-
-export const styles = StyleSheet.create({
-    container:{
-        marginTop: 50,
-        justifyContent: 'center',
-        alignItems: 'center',     
-    },
-    title:{
-        textAlign: 'center',
-        fontSize: 30,
-        marginBottom: 16,
-    },
-});
+const styles = StyleSheet.create({
+        boxTitulo:{
+            justifyContent: 'center',
+            alignContent: 'center',
+            padding: 10,
+        },
+        titulo:{                  
+            fontSize: 30,
+            fontWeight: 'bold',
+            color: '#ffffff',
+            textAlign: 'center',
+        }
+    
+})
 
 export default styles
-
