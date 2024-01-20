@@ -1,6 +1,6 @@
 # First Discipline Mobile Assessment
 
-🎓 College: [Faculdade Metodista Granbery](http://granbery.edu.br/)
+🎓 College: [College Methodist Granbery](http://granbery.edu.br/)
 
 👨‍🏫 Teacher: [Érica Carvalho - Github](https://github.com/ericacrcarvalho) | [Linkedin](https://www.linkedin.com/in/ericacrcarvalho/)
 
