@@ -1,30 +1,30 @@
-# Disciplina: Introdução ao Desenvolvimento Mobile
+# First Discipline Mobile Assessment
 
 🎓 College: [Faculdade Metodista Granbery](http://granbery.edu.br/)
 
 👨‍🏫 Teacher: [Érica Carvalho - Github](https://github.com/ericacrcarvalho) | [Linkedin](https://www.linkedin.com/in/ericacrcarvalho/)
 
-### Data de entrega: 17/04/22 às 22h
-### Valor: 3 pontos
-#### Tema: Balão da sorte
-
---- 
-
-- Deve ser criada uma aplicação com o tema Balão da sorte. O objetivo é estourar um balão que deve exibir uma frase aleatória. Ao clicar no botão 'Estourar o balão', a imagem deve ser trocada por uma de um balão estourado e exibida uma frase  aleatória. Ao clicar no botão 'Resetar', todos os campos devem voltar ao seu valor (estado) inicial, ou seja, deve voltar com a imagem original (balão sem estourar) e a frase deve sumir. Os seguintes elementos devem,obrigatoriamente, estar presentes no código:
-- [x] a. Deve ser criado um componente para parte (ex.: BalaoDaSorte.js).
-- [x] b. As cores e os tamanhos devem estar em um arquivo separado (ex.: colors.js e
-sizes.js).
-- [x] c. Os botões devem ser um componente sem estado (ex.: MyButton.js)
-- [x] d. Usar React Hooks - useState para controlar a imagem e as frases.
-- [x] e. As imagens devem ser salvas em uma pasta separada.
-- [x] f. As frases devem estar em um vetor no componente BalaoDaSorte e deve ser
-selecionada de forma aleatória ao clicar no botão ‘Estourar o balão’.
-- [x] g. O código deve estar organizado e identado.
+### Delivery date: 04/17/22 at 10pm
+### Value: 3 points
+#### Theme: Lucky Balloon
 
 ---
 
-#### Observações:
--  A avaliação é individual.
--  Não é permitido copiar o trabalho do colega. Se isso ocorrer, a nota será dividida pelo total de alunos envolvidos na cópia. 
-- É permitido consultar a internet.
-- Ver o vídeo de exemplo.
+- An application must be created with the Lucky Balloon theme. The objective is to pop a balloon that must display a random phrase. When clicking on the 'Burst the balloon' button, the image should be changed to one of a popped balloon and a random phrase displayed. When clicking the 'Reset' button, all fields must return to their initial value (state), that is, they must return with the original image (unburst balloon) and the phrase must disappear. The following elements must be present in the code:
+- [x] a. A component must be created for the part (e.g. BalaoDaSorte.js).
+- [x] b. Colors and sizes must be in a separate file (e.g. colors.js and
+sizes.js).
+- [x] c. Buttons must be a stateless component (e.g. MyButton.js)
+- [x] d. Use React Hooks - useState to control the image and sentences.
+- [X and. Images must be saved in a separate folder.
+- [x] f. The phrases must be in a vector in the BalaoDaSorte component and must be
+selected at random when clicking on the ‘Burst the balloon’ button.
+- [x] g. The code must be organized and indented.
+
+---
+
+#### Comments:
+- The assessment is individual.
+- Copying a colleague's work is not allowed. If this occurs, the grade will be divided by the total number of students involved in the copy.
+- It is allowed to consult the internet.
+- See the example video.
